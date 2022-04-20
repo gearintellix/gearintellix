@@ -1,6 +1,12 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/7834238/164147936-e343e1c5-36ac-487e-a244-832b77ff4214.gif" alt="gearintellix" />
+<!--   <img src="https://user-images.githubusercontent.com/7834238/164147936-e343e1c5-36ac-487e-a244-832b77ff4214.gif" alt="gearintellix" /> -->
 </p>
+
+<img src="https://user-images.githubusercontent.com/7834238/164191326-59ae2fed-1a1f-4f09-aa4f-d84eee4d5d46.gif" alt="gearintellix" align="left" height="150" />
+
+# GearIntellix
+
+![GearIntellix's GitHub stats](https://github-readme-stats.vercel.app/api?username=gearintellix&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&count_private=true)
 
 <!--
 **gearintellix/gearintellix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
