@@ -1,4 +1,4 @@
-![ ](https://komarev.com/ghpvc/?username=gearintellix)
+![ ](https://komarev.com/ghpvc/?username=gearintellix&color=EC2F4B&label=viewer&style=for-the-badge)
 
 <a href="https://github.com/gearintellix">
   <img src="https://raw.githubusercontent.com/gearintellix/gearintellix/main/gearintellix.svg" alt="gearintellix" align="right" height="250" />
