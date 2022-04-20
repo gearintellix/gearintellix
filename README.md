@@ -1,4 +1,4 @@
-<img src="gearintellix.svg" alt="gearintellix" align="left" height="315" />
+<img src="gearintellix.svg" alt="gearintellix" align="left" height="300" />
 
 # GearIntellix
 
