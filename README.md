@@ -1,6 +1,6 @@
-### Hi there 👋
-
-![gearintellix](https://user-images.githubusercontent.com/7834238/164147936-e343e1c5-36ac-487e-a244-832b77ff4214.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/7834238/164147936-e343e1c5-36ac-487e-a244-832b77ff4214.gif" alt="gearintellix" />
+</p>
 
 <!--
 **gearintellix/gearintellix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
