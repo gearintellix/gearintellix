@@ -2,7 +2,7 @@
 
 # GearIntellix
 
-![GearIntellix's GitHub stats](https://github-readme-stats.vercel.app/api?username=gearintellix&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&count_private=true)
+![GearIntellix's GitHub stats](https://github-readme-stats.vercel.app/api?username=gearintellix&show_icons=true&bg_color=67.5,EC2F4B,8C5C95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&count_private=true&hide_title=true)
 
 <!--
 <p align="center">
